@@ -1,4 +1,4 @@
-# NepaliTransliterate
+# NepaliTransliterator
 A Transliterator for Nepali Romanized to Nepali characters and viceversa written in Rust.
 For Roman Phonetics characters to Nepali characters and viceversa see my other repo <a href="https://github.com/busy-mac/NepaliTransliterate">here</a>
 <br>
